@@ -1,0 +1,20 @@
+body {
+    background-color: #cfb997;
+    font-family: helvetica neue;
+    font-style: italic;
+    text-align: center;
+    font-size: 45px;
+    line-height: 2px;
+}
+label {
+    font-size: 15px;
+}
+title {
+    font-size: 50px;
+}
+p {
+    font-size: 20px;
+}
+h1 {
+    margin-top: 0px;
+}
